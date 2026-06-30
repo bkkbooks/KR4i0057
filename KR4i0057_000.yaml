@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0057/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0057_WYG_000-1a, image: WYG1483/WYG1483-0819a.png}
+body:
+  text: 金石要例詩文評類提要臣等謹案金石要例一卷國朝黃宗羲撰宗羲有明儒學案已别著録是書櫽括古人金石之例凡三十六則後附論文管見九則自序謂潘蒼崖有金石例大段以昌黎為例顧未嘗著為例之義與壞例之始亦有不必例而例之者如上代兄弟宗族姻黨有書有不書不過以著名不著名初無定例故摘其要領稍為辨正所以補蒼崖之缺云云蒼崖者元潘昂霄之號此書蓋補其金石例之所遺者也所收如比干銅槃銘出王球嘯堂集古録乃宋人僞作夏侯嬰石槨銘出吳均西京雜記亦齊梁人影撰引為證佐未免失考又據孫何碑解論碑非文章之名不知劉協文心雕龍已列此目如樂府本官署之名而相沿既久無不稱歌詞為樂府者宗羲必繩以古義亦未免太拘然宗羲於文律本嫻其所考證實較昂霄原書為精密講金石之文者固不能不取裁于斯焉乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:34caff56734ce10a5b739f003b962795d53cac7f888d33217b4d34c912b07188
+metadata:
+  title: 金石要例
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:46:23.766466'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0057/KR4i0057_000.txt
+hash: sha256:74f6f238d6d0809d1a3b425ad1bbd75a2bb952cd1cf657d96eff2ba7b0f61bd9

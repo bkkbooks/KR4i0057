@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4i0057/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4i0057/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金石要例
+  date: '2015-08-25 00:46:23.766466'
+  source:
+    repository: kanripo
+    path: KR4i0057
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4i0057_000-WYG.yaml, hash: 'sha256:c9de74bed4725c4178a8ededa2d4c18aef0e77fdeb29c738a4274ee4b267284d'}
+  - {seq: 1, filename: KR4i0057_001-WYG.yaml, hash: 'sha256:3110bff8ad0a90378780612aca5ee9658cd52a3a93df0f24794eb532f80c7308'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4i0057_000-WYG.markers.yaml, hash: 'sha256:7ce2e59c96baca3318e6217d9446336b8ba32ddc89e8c455c2be63e1b0b88ae8'}
+  - {seq: 1, role: markers, filename: assets/KR4i0057_001-WYG.markers.yaml, hash: 'sha256:8ecd562ec1b1c536332a214ab2acbd477141945c926fc6b202944855e4ee06be'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4i0057_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 340
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4i0057_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5621
+  label: 金石要例
+  type: section
+  level: 1
+hash: sha256:588ffe9ea8b06befaa3e92e380100ceba85dcd15c36ca7316e95678131a8dbd3
