@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4i0057_000.yaml, hash: 'sha256:90520a0f87e2882f17ba4e3bc60107efeb53152fd70ce599f8bb3f9928ec276c'}
   - {seq: 1, filename: KR4i0057_001.yaml, hash: 'sha256:030de91b5d564157b776e8e788b9643ba1e4f0783265484021a2b0dea239ffd6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0057_000.markers.yaml, hash: 'sha256:3cf1866d0e9379995975f62265f38219c2176dede4f021869269b8e02af784c2'}
-  - {seq: 1, role: markers, filename: assets/KR4i0057_001.markers.yaml, hash: 'sha256:108eb980350352a64aa206123a2be59c9e66e4f7ef854304e352ee7b7fcffe2d'}
+  - {seq: 0, role: markers, filename: assets/KR4i0057_000.markers.yaml, hash: 'sha256:34257195947ef0faf86ba25b3313781dec7104d6e249893ab59148f9c9b15765'}
+  - {seq: 1, role: markers, filename: assets/KR4i0057_001.markers.yaml, hash: 'sha256:df6234e738549ac5837ef25c347a99af38fe48e534944a2a1ef71878045bc250'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 金石要例
   type: section
   level: 1
-hash: sha256:1fec6e53a6467dd22ae8a3c2f0d4aba32aeeaafc30597cbcd9cc86cc2e54674a
+hash: sha256:963a92caa88941657adb4ac7fb51662b0adbd29291e25604145afaa5de2028c9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

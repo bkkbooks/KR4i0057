@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4i0057_000-WYG.yaml, hash: 'sha256:c9de74bed4725c4178a8ededa2d4c18aef0e77fdeb29c738a4274ee4b267284d'}
   - {seq: 1, filename: KR4i0057_001-WYG.yaml, hash: 'sha256:3110bff8ad0a90378780612aca5ee9658cd52a3a93df0f24794eb532f80c7308'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0057_000-WYG.markers.yaml, hash: 'sha256:7ce2e59c96baca3318e6217d9446336b8ba32ddc89e8c455c2be63e1b0b88ae8'}
-  - {seq: 1, role: markers, filename: assets/KR4i0057_001-WYG.markers.yaml, hash: 'sha256:8ecd562ec1b1c536332a214ab2acbd477141945c926fc6b202944855e4ee06be'}
+  - {seq: 0, role: markers, filename: assets/KR4i0057_000-WYG.markers.yaml, hash: 'sha256:52bf690ad5ff0228e1f3344652f6c197bd04d4829072242db874c4e599e80350'}
+  - {seq: 1, role: markers, filename: assets/KR4i0057_001-WYG.markers.yaml, hash: 'sha256:dc88a223364befa47fe48afd562586187614274ff285acf3125f44f37cfb7699'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 金石要例
   type: section
   level: 1
-hash: sha256:588ffe9ea8b06befaa3e92e380100ceba85dcd15c36ca7316e95678131a8dbd3
+hash: sha256:753cc9bca99c0a4e8c96feba723706fae9ee17fc4caa0ab2118ccf24403111c1
